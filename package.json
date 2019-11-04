@@ -1,0 +1,19 @@
+{
+  "name": "word-guess-cli",
+  "version": "1.0.0",
+  "description": "creating a CLI app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dennis-The14th-web/Word-Guess-CLI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dennis-The14th-web/Word-Guess-CLI/issues"
+  },
+  "homepage": "https://github.com/Dennis-The14th-web/Word-Guess-CLI#readme"
+}
