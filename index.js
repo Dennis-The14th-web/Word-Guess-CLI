@@ -52,7 +52,7 @@ function promptUser() {
     }
 }
 
-//checks that the user's input is in correct format and compares the letter to gameWord to see if guess is correct
+//checks if user's input is in correct format and compares the letter to gameWord to see if guess is correct
 function checkAnswer(data) {
     if ((data.letter.length === 1) && /^[a-zA-Z]+$/.test(data.letter)) {
         var checkable = data.letter.toUpperCase();
@@ -75,7 +75,7 @@ function checkAnswer(data) {
 }
 
 //If the user's guess is correct, the word array displays the word with the guessed letter(s), 
-//If the entire word is correct (filled in), the game restarts.
+//If all guesses are correct, the game restarts.
 function rightGuess() {
     console.log("\nYou guessed correctly.\n".green.bold);
     if (chosenWord.replace(/ /g,"") == (gameWord.showWord()).replace(/ /g,"")) {
