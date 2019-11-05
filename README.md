@@ -30,3 +30,5 @@
 - Word-Guess-CLI is a command line interface game and does not run on a web browser because it cant be hosted. It is a javascript coded game that runs on node.js 
 
 - This App also depends on the npm dependencies that manipulates the cli with its features such as colors and inquirer.
+
+- I have created an array of word with the Mortal Kombat game characters for the computer to randomly display them one after another.
