@@ -8,4 +8,4 @@
 
 - If all guessed letter is eqaul to computer word choice the user wins and the game restarts with a different word to guess.
 
-   * <a href="https://imgflip.com/gif/3fa4pg"><img src="https://i.imgflip.com/3fa4pg.gif" title="made at imgflip.com"/></a>
+<a href="https://giphy.com/gif/3fa4pg"><img src="https://media.giphy.com/media/Vdc0ySRCRNiB6oWBz6/giphy.gif" title="made at giphy.com"/></a>
